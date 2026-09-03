@@ -1,0 +1,1 @@
+﻿export function eq(a,b){return a===b}export function gt(a,b){return a>b}export function lt(a,b){return a<b}export function gte(a,b){return a>=b}export function lte(a,b){return a<=b}export function between(n,min,max){return n>=min&&n<=max}export function compare(a,b){return a===b?0:a>b?1:-1}
